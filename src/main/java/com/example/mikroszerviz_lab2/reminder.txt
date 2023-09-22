@@ -1,0 +1,2 @@
+Jobb oldalt a maven Lifecycle-nél
+érdemes a compile test package fájlokat egyszerre elindítani (Ctrl-lal kijelölve)
